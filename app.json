@@ -1,0 +1,15 @@
+{
+  "port": ":7788",
+  "every_time": "10:30",
+  "wechat": {
+    "app_id": "",
+    "app_secret": "",
+    "temps": [
+      {
+        "id": "",
+        "page": "/pages/main/main",
+        "values": ["nums","sss","sss1"]
+      }
+    ]
+  }
+}
